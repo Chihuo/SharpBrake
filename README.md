@@ -1,4 +1,5 @@
 This is a modified version of SharpBrake with below modifications:
+
 1. Minor bug fixes.
 2. Better support for Windows Azure Cloud services. 
 3. Better managed code exception callstack gathering.
