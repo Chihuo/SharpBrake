@@ -1,3 +1,8 @@
+This is a modified version of SharpBrake with below modifications:
+1. Minor bug fixes.
+2. Better support for Windows Azure Cloud services. 
+3. Better managed code exception callstack gathering.
+
 # SharpBrake
 
 <img src="http://f.cl.ly/items/0L0G1z0E2A1P3H2O042F/dotnet%2009.19.32.jpg" width=800px>
